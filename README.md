@@ -1,5 +1,4 @@
-# VoIP_ML-model-
-
+# VoIP_ML-model
 
 Spam Over Internet Telephone can become a serious threat within the close to the future due to the growing number of VoIP users.We
 tend to propose a model that uses the time duration (length) of calls between two users to differentiate normal callers and spam
